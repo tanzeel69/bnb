@@ -1,0 +1,6 @@
+-query param(getting and setting)
+-date Picker
+-Progress bar at top
+-tailwind css classes
+-global classes 
+next static and server side rendering
