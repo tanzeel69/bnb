@@ -3,4 +3,5 @@
 -Progress bar at top
 -tailwind css classes
 -global classes 
-next static and server side rendering
+-next static and server side rendering
+-tailwind scroll bar hide
